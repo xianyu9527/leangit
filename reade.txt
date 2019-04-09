@@ -1,0 +1,3 @@
+Git  is a distribute verison controll system
+Git is  a free softwrare distributed under the GPL
+Git has a mutable index called stage.
